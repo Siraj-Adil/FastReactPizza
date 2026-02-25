@@ -19,7 +19,6 @@ A modern React application for a pizza ordering interface, built with **React 18
 
 Clone the repository and install dependencies:
 
-```bash
 git clone https://github.com/Siraj-Adil/FastReactPizza
 cd 16-fast-react-pizza
 npm install
@@ -27,7 +26,7 @@ npm install
 ## 🖼 Screenshots
 
 ### Home Page
-![Home Page](screenshots\home.png)
+![Home Page](./screenshots/home.png)
 
 ### Menu Page
 ![Menu Page](./screenshots/menu.png)
