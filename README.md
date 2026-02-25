@@ -1,4 +1,4 @@
-# 16-Fast-React-Pizza
+# Fast-React-Pizza
 
 A modern React application for a pizza ordering interface, built with **React 18**, **Vite**, **Redux Toolkit**, and **TailwindCSS**. This project is designed to be fast, responsive, and fully type-safe with TypeScript types support.
 
@@ -15,13 +15,27 @@ A modern React application for a pizza ordering interface, built with **React 18
 
 ---
 
-## 📦 Installation
+## Setup Instructions
 
-Clone the repository and install dependencies:
+1. Clone the repo:
+```bash
+git clone https://github.com/Siraj-Adil/FastReactPizza.git
+cd FastReactPizza
+```
 
-git clone https://github.com/Siraj-Adil/FastReactPizza
-cd 16-fast-react-pizza
+2. Install dependencies:
+```bash
 npm install
+```
+
+3. Run the development server:
+```bash
+npm run dev
+```
+
+Then open [http://localhost:5173](http://localhost:5173) to view it.
+
+---
 
 ## 🖼 Screenshots
 
@@ -39,3 +53,5 @@ npm install
 
 ### Order Status Page
 ![Order Status Page](./screenshots/order_status.png)
+
+Created by **Siraj Adil**
